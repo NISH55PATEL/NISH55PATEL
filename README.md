@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hello, folks! 👋  
 
-<!--
-**NISH55PATEL/NISH55PATEL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is **Nishanth Patel U** and I'm a **Senior Analyst - Cloud Operations** at **HCL Technologies**. I'm based in **Mandya**India**. I specialize in **cloud infrastructure**, **cloud operations**, and **automation**.
 
-Here are some ideas to get you started:
+You can find me on "www.linkedin.com/in/nishanthpatelu"
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔧 Technologies & Tools
+
+- **Cloud Platforms**: AWS, Azure, Google Cloud
+- **DevOps**: Docker, Kubernetes, Jenkins
+- **Scripting**: Python, Bash
+- **Automation**: Ansible, Terraform
+- **Monitoring & Security**: Prometheus, Grafana, CloudWatch, IAM
+
+---
+
+Feel free to reach out if you're interested in discussing cloud technologies or if you have any questions about my work!
